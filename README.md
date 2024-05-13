@@ -1,3 +1,3 @@
 # Onixia-Continent
-Rpg Web3 game in polygon
+game 
 https://onixia.onrender.com/game.html
